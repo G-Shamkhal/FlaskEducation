@@ -1,5 +1,5 @@
 import unittest
-from Lab_3.hw2.decrypt import decrypt
+from homework.Lab_3.hw2.decrypt import decrypt
 
 
 class TestDecryptBase(unittest.TestCase):

@@ -1,5 +1,5 @@
 import unittest
-from Lab_4.hw1_3.hw1_registration import app
+from homework.Lab_4.hw1_3.hw1_registration import app
 
 
 class TestRegistration(unittest.TestCase):

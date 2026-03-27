@@ -1,5 +1,5 @@
 import unittest
-from Lab_3.hw3.accounting import app, storage
+from homework.Lab_3.hw3.accounting import app, storage
 
 
 class TestFinanceApp(unittest.TestCase):

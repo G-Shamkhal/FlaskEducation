@@ -1,7 +1,7 @@
 import unittest
 import sys
 import io
-from Lab_5.hw4.redirect import Redirect
+from homework.Lab_5.hw4.redirect import Redirect
 
 
 class TestRedirect(unittest.TestCase):

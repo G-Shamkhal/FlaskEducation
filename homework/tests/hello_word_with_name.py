@@ -1,6 +1,6 @@
 import unittest
 from freezegun import freeze_time
-from Lab_3.hw1.hello_word_with_name import app
+from homework.Lab_3.hw1.hello_word_with_name import app
 
 class TestHelloWorld(unittest.TestCase):
     def setUp(self):

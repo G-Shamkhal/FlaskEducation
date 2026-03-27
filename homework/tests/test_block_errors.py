@@ -1,5 +1,5 @@
 import unittest
-from Lab_5.hw3.block_errors import BlockErrors
+from homework.Lab_5.hw3.block_errors import BlockErrors
 
 
 class TestBlockErrors(unittest.TestCase):

@@ -1,7 +1,7 @@
 import unittest
 from datetime import datetime
 from unittest.mock import patch
-from Lab_3.hw4.person import Person
+from homework.Lab_3.hw4.person import Person
 
 
 class TestPersonInit(unittest.TestCase):

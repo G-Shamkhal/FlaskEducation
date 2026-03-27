@@ -1,5 +1,5 @@
 import unittest
-from Lab_5.hw2.remote_execution import app
+from homework.Lab_5.hw2.remote_execution import app
 
 
 class TestRemoteExecution(unittest.TestCase):
